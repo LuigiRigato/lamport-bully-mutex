@@ -1,0 +1,3 @@
+Nó 1 acessou às 1 (Tempo Lógico)
+Nó 1 acessou às 14 (Tempo Lógico)
+Nó 3 acessou às 27 (Tempo Lógico)
