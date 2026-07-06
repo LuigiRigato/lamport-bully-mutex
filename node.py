@@ -51,7 +51,8 @@ class LamportMiddleware(BaseHTTPMiddleware):
         timestamp = request.headers.get("timestamp")
         if timestamp:
             node_state.atualizar_relogio(timestamp)
-        node_state.relogio_local += 1
+        else:
+            node_state.relogio_local += 1
         return await call_next(request)
 
 app.add_middleware(LamportMiddleware)

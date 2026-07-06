@@ -1,3 +1,4 @@
-Nó 1 acessou às 1 (Tempo Lógico)
-Nó 1 acessou às 14 (Tempo Lógico)
-Nó 3 acessou às 27 (Tempo Lógico)
+Nó 1 acessou às 304 (Tempo Lógico)
+Nó 2 acessou às 310 (Tempo Lógico)
+Nó 1 acessou às 78 (Tempo Lógico)
+Nó 2 acessou às 82 (Tempo Lógico)
